@@ -1,0 +1,6 @@
+name: NaturalTreeCutter
+version: 1.0
+main: me.godd.treecut.NaturalTreeCutter
+api-version: 1.21
+description: Taie doar copacii naturali, ignorând lemnul pus de jucători
+author: Godd
